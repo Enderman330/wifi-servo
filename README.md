@@ -21,7 +21,7 @@ Follow the instructions:
 
 9. After uploading the code, connect the wifi servo in your smart phone
 
-10. The password for the wifi is Enderman330, you can change this in the code 'const char* password = " ";'
+10. The password for the wifi is Enderman330, you can change this in the code `const char* password = " ";`
 
 11. Then open the ip address 192.168.4.1 in any browser
 
