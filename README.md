@@ -23,7 +23,7 @@ Follow the instructions:
 
 10. The password for the wifi is Enderman330, you can change this in the code `const char* password = " ";`
 
-11. Then open the ip address 192.168.4.1 in any browser
+11. Then open the ip address **[192.168.4.1](192.168.4.1)** in any browser
 
 -> Note: The slider is only for the first servo
 
